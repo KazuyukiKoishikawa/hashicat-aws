@@ -13,6 +13,8 @@ cat << EOM > /var/www/html/index.html
   <center><h2>Meow World!</h2></center>
   Welcome to ${PREFIX}'s app. NEVER Replace this text with your own (-o-).
   qwerty handson
+  
+  aaa
   <!-- END -->
 
   </div>
